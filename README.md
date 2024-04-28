@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/YelyzavetaBen/Project1/blob/main/Chips%20(1).ipynb">Evaluation of Trial Store Performance and Strategic Recommendations for Chip Category Expansion</a></h1>
+<h1><a href="https://github.com/YelyzavetaBen/Project2/blob/main/Trial%20Stores.ipynb">Evaluation of Trial Store Performance and Strategic Recommendations for Chip Category Expansion</a></h1>
 
 <h2>Goal</h2>
 The primary objective of this project is to evaluate the performance of trial store layouts and determine their effectiveness in boosting sales. This analysis will help the Category Manager for Chips to decide whether the new store layouts should be implemented across all stores
